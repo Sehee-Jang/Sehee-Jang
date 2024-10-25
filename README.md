@@ -11,11 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:61DAFB,100:3E8ECA&text=Sehee%20Jang&fontSize=90&animation=twinkling&fontAlignY=50&desc=Frontend%20Developer&descAlignY=73&descAlign=62&height=180)
 -->
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:61DAFB,100:3E8ECA&text=Sehee%20Jang&fontSize=90&animation=twinkling&fontAlignY=50&desc=Frontend%20Developer&descAlignY=73&descAlign=62&height=180&fontColor=ffffff)
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:61DAFB,100:3E8ECA&text=Sehee%20Jang&fontSize=90&animation=twinkling&fontAlignY=50&desc=Frontend%20Developer&descAlignY=73&descAlign=62&height=200)
-
-## 기술 스택
+## Languages
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
@@ -24,3 +25,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
 </div>
+
+## Links
+[![Tistory Blog Badge](https://img.shields.io/badge/Tistory-111111?style=for-the-badge&logo=tistory&logoColor=61DAFB)](https://seheej.tistory.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](https://www.linkedin.com/in/seheejang)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=61DAFB)](mailto:seheejang94@gmail.com)
+
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sehee-jang&layout=compact&bg_color=0D1117&text_color=FFFFFF&title_color=FFFFFF&icon_color=8B949E&border_color=30363D)
