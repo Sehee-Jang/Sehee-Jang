@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:61DAFB,100:3E8ECA&text=Sehee%20Jang&fontSize=90&animation=twinkling&fontAlignY=50&desc=Frontend%20Developer&descAlignY=73&descAlign=62&height=180)
 -->
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Sehee-Jang?pet-id=639633312781175525"
+    width="600"
+    height="120"
+  />
+</a>
+  
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:61DAFB,100:3E8ECA&text=Sehee%20Jang&fontSize=90&animation=twinkling&fontAlignY=50&desc=Frontend%20Developer&descAlignY=73&descAlign=62&height=180&fontColor=ffffff)
 
 ## Languages
