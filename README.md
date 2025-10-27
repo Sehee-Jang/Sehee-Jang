@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Links
+[![Resume Badge](https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=notion&logoColor=61DAFB)](https://www.notion.so/Frontend-Developer-React-Next-js-257689e8be268084ba72ce91e9495467)
 [![Tistory Blog Badge](https://img.shields.io/badge/Tistory-111111?style=for-the-badge&logo=tistory&logoColor=61DAFB)](https://seheej.tistory.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=61DAFB)](https://www.linkedin.com/in/seheejang)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=61DAFB)](mailto:seheejang94@gmail.com)
